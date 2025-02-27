@@ -1,5 +1,5 @@
 
-Lutris Game Options
+Lutris Game Options<br>
 Arguments: uplay://launch/UPLAY_GAME_ID/0
 
 # UPLAY_GAME_ID
