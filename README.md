@@ -27,6 +27,7 @@ List of GAME ID's in Uplay by Ubisoft
 934 - Assassin's Creed® Rogue (Steam Version)  
 944 - Assassin's Creed Unity (RU)  
 945 - Assassin's Creed Unity (RU) (Steam Version)  
+1081 - Assassin's Creed® Shadows (Steam Version)  
 1186 - Assassin's Creed Rogue (RU)  
 1187 - Assassin's Creed Rogue (RU) (Steam Version)  
 1651 - Assassin's Creed® Chronicles China  
@@ -145,6 +146,7 @@ List of GAME ID's in Uplay by Ubisoft
 2990 - Anno 1602  
 4553 - Anno 1800 (Uplay)  
 4554 - Anno 1800 (Uplay+Steam)  
+6245 - Anno 117: Pax Romana (Steam Demo)  
 13800 - Anno 1800 - Open Beta  
 16232 - Anno 1404 - History Edition  
 16234 - Anno 1503 - History Edition  
@@ -287,9 +289,11 @@ List of GAME ID's in Uplay by Ubisoft
 4472 - Steep Open Beta (Steam)  
 4740 - Avatar: Frontier of Pandora (Uplay)  
 4502 - South Park: The Fractured But Whole (Steam)  
+5093 - Avatar: Frontier of Pandora (Steam)  
 5277 - Starlink: Battle For Atlas  
 5405 - Immortals Fenyx Rising  
 5408 - Rabbits Coding!  
+5480 - Riders Republic (Steam)  
 5487 - Riders Republic  
 5595 - Trackmania  
 5705 - Scott Pilgrim vs the World: The Game  
@@ -314,6 +318,7 @@ List of GAME ID's in Uplay by Ubisoft
 61515 - Lake  
 61517 - A Normal Lost Phone  
 62326 - Immortals Fenyx Rising (Steam)  
+64181 - Star Wars: Outlaws (Steam)  
 
 # To be verified
 276 - Prince of Persia  
